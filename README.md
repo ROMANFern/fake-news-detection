@@ -20,7 +20,7 @@ To set up the environment and run the project, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/ROMANFern/fake-news-detection.git
 cd fake-news-detection
 ```
 
